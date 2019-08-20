@@ -1,4 +1,4 @@
-Welcome to FRC 2714 Training Portal!
+Welcome to FRC 2714's Training Portal!
 ===========================================================
 
 .. toctree::
