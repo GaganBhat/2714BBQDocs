@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'BBQ Training'
+project = 'FRC 2714 Documentation'
 copyright = '2019, Gagan Bhat'
 author = 'Gagan Bhat'
 
