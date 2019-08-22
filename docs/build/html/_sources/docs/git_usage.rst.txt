@@ -1,7 +1,7 @@
 Git Usage
 =========
 
-Creating A Feature Branch
+Creating a Feature Branch
 -------------------------
 Often times, you will be assigned a subsystem or a specific task to complete for the robot code. Since the ``master`` branch is used only for stable code, you should develop your task-specific code on a separate branch. To create a separate branch, use the following command:
 
